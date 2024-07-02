@@ -1,0 +1,28 @@
+
+
+ul {
+  list-style-type: none;
+}
+
+.content-date {
+  display: flex;
+  justify-content: space-between;
+  font-size: large;
+  font-style: italic;
+  text-align: right;
+  padding-top: 10px;
+}
+
+.content {
+  font-size: x-large;
+  margin-top: 50px;
+}
+
+.img-fluid{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 20%;
+
+}
