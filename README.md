@@ -1,9 +1,9 @@
 # Daily Motivation
 
-![Daily Motivation](link-to-your-logo-or-image.png)
+![Daily Motivation]([link-to-your-logo-or-image.png](https://cdn3.geckoandfly.com/wp-content/uploads/2016/01/jack-ma-quotes01-830x467.jpg))
 
 ## Description
-The Daily Motivation App is a full stack web application built using Spring Boot, React, and MySQL. It fetches a motivational quote each time it's run and allows users to add their own motivational quotes via a MySQL database.
+ A full stack web application built using Spring Boot, React, and MySQL. It fetches a motivational quote each time it's run and allows users to add their own motivational quotes via a MySQL database.
 
 ### Features
 - Fetches a motivational quote from the backend API on each run.
@@ -15,17 +15,6 @@ The Daily Motivation App is a full stack web application built using Spring Boot
 - **Frontend**: React, JavaScript, HTML/CSS
 - **Database**: MySQL
 
-## Installation and Setup
-### Prerequisites
-- Java Development Kit (JDK) 8 or later
-- Node.js and npm (Node Package Manager)
-- MySQL Server
-
-### Backend Setup
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/daily-motivation.git
-   cd daily-motivation/backend
 
 
 
