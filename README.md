@@ -6,11 +6,10 @@
 
 ### Features
 - Fetches a motivational quote from the backend API on each run.
-- Allows users to add new motivational quotes which are stored in a MySQL database.
 - Responsive and user-friendly React frontend.
 
 ## Technologies Used
-- **Backend**: Spring Boot, Java, Spring Data JPA, MySQL
+- **Backend**: Spring Boot, Java
 - **Frontend**: React, JavaScript, HTML/CSS
 - **Database**: MySQL
 
