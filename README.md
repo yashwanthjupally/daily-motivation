@@ -1,6 +1,5 @@
 # Daily Motivation
 
-![Daily Motivation]([link-to-your-logo-or-image.png](https://cdn3.geckoandfly.com/wp-content/uploads/2016/01/jack-ma-quotes01-830x467.jpg))
 
 ## Description
  A full stack web application built using Spring Boot, React, and MySQL. It fetches a motivational quote each time it's run and allows users to add their own motivational quotes via a MySQL database.
